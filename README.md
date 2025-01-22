@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Go to solution](https://www.frontendmentor.io/solutions/social-links-solution-lkTyw7s_Bw)
+- Live Site URL: [Go to live site](https://marcelocolodetti.github.io/desafiosociallinks/)
 
 ## My process
 
@@ -40,7 +40,7 @@ Users should be able to:
 
 ### What I learned
 
-Projeto útil para recaptulação e fixação de conceitos básicos como semântica em HTML e propriedades em CSS.
+Useful project for recapping and fixing basic concepts such as semantics in HTML and properties in CSS.
 
 ## Author
 
